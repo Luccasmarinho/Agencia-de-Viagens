@@ -459,7 +459,7 @@ footer img {
 
    .container-origem-destino {
         flex-direction: column;
-        width: 200%;
+        width: 100%;
    }
 
     .box-checkbox,
