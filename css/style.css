@@ -457,9 +457,13 @@ footer img {
         width: 100%;
    }
 
+   .formulario {
+    overflow: hidden;
+   }
+
    .container-origem-destino {
         flex-direction: column;
-        width: 100%;
+        width: 200%;
    }
 
     .box-checkbox,
