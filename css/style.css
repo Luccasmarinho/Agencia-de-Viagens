@@ -152,7 +152,7 @@ input {
 
 .container-origem-destino .origem,
 .container-origem-destino .destino {
-    width: 50%;
+    width: 100%;
 
 }
 
@@ -160,8 +160,7 @@ select {
     padding: 7px;
     outline: none;
     border: 1px solid gray;
-    border-radius: 5px;
-    
+    border-radius: 5px;  
 }
 
 .container-radio p,
@@ -457,13 +456,9 @@ footer img {
         width: 100%;
    }
 
-   .formulario {
-    overflow: hidden;
-   }
-
    .container-origem-destino {
         flex-direction: column;
-        width: 200%;
+        width: 100%;
    }
 
     .box-checkbox,
